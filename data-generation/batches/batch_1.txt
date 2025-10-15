@@ -1,0 +1,67 @@
+پرسش و پاسخ های انگلیسی زیر رو به فارسی محاوره ای تبدیل کن. حواست باشه که:
+    1- فارسی محاوره ای باشه
+    2- تمام کلمات انگلیسی شامل اسامی خاص مخفف ها اصلاحات بانکی همگی به فارسی تبدیل شوند.
+    3- هیچ کلمه یا حرف انگلیسی ای در ترجمه نباشه
+    
+    Return strictly as JSONL: {'id': ..., 'Q': '...', 'A': '...'}
+
+ID: 20
+Q: How do I become eligible for an M&N  Bank Regular Current Account
+A: If the Average Quarterly Balance (AQB) in your Current Account is over Rs.10,000 you are eligible to enjoy the benefits of a Regular Current Account.
+ID: 21
+Q: What are the documents required for opening a Current Account of a partnership firm
+A: Following documents are required for opening a Current Account of a partnership firm: Latest Partnership Deed Documents establishing proof of existence - Certificate of Registration under any Statute/Act or professional bodies - Registration Certificate issued by Registrar of Firms - Valid Business License or Certificate of Registration issued by State/Central Government authority (validity would include the grace period for renewal as mentioned in the certificate) - PAN Card in the name of the firm; - Self-signed cheque issued from the firmâ€™s account from a PSU/private sector/foreign bank along with a bank statement not older than four months Documents for establishing proof of address - Landline telephone bill/electricity bill of public and approved private operators in the State. (Bills not to be older than 4 months from the date of account opening) - Property Ownership Deed i.e. title deeds of the property in the name of the firm duly stamped and registered - Latest property tax or water tax paid receipt/bill raised in the name of the firm - TAN Allotment Letter in the name of the firm - Existing bank account statement or passbook of a PSU/private sector/foreign bank - Statement not older than 4 months from the date of account opening to be accepted Documents for establishing photo identity of authorised partners/signatories View more
+ID: 22
+Q: Must I open Regular Current account in each location where I have my company office
+A: No. As a Regular Current account holder you have the advantage of single account, multi-location banking.
+ID: 23
+Q: What is the initial deposit amount required to open the Flexi Account
+A: The initial deposit amount to open a Flexi Current account is Rs.75,000.
+ID: 24
+Q: What should I do in case I am unable to access my Company's Current Account using NetBanking
+A: If you are unable to access your company account, it may be because you have entered an incorrect Customer Identification Number (Cust ID) to log into your NetBanking Account. While opening Accounts of Companies, separate Customer IDs are created in name of the Company as well as each of the Authorized Signatory(ies). The latter is distinct and has to be used to access NetBanking for the Company's Account. However, we regret our inability to disclose the appropriate Customer ID on an unsecure e-mail and request you to contact our nearest Branch or PhoneBanking Center for this. For more details, Contact Us View more
+ID: 25
+Q: Can I access my account by telephone to conduct routine daily transactions
+A: Yes you can. You can use PhoneBanking to perform the following operations: Access your account details Request account statements Make Fixed Deposit related queries Inquire about interest and FX rates Request a cash delivery or pick-up Order a new cheque book View more
+ID: 26
+Q: How is a Flexi Current account different from a regular current account
+A: The Flexi account includes the following privileges: Flexibility of higher cash deposits (home location) and transactions anywhere (payments, collections and funds transfers), limits during peak seasons, since these are based on the Average Monthly Balance (AMB) maintained in the account. Calculation of free transaction limits based on balances maintained in the transaction month, leading to a high level of customization in tune with current business requirements. For example, if your season starts in November, you get a transaction limit based on the balance maintained by you in November, and not in October or September. Low minimum balance requirement of Rs. 75,000 per month. Competitive pricing on and faster Collection of Outstation Cheques. Up to 40 free Pay Orders and 40 free Demand Drafts per month. Free RTGS and NEFT Transactions. These privileges make a Flexi Current account different from a Regular Current account. View more
+ID: 27
+Q: What are the documents required for opening a Current Account of a partnership firm
+A: Following documents are required for opening a Current Account of a partnership firm: Latest Partnership Deed Documents establishing proof of existence - Certificate of Registration under any Statute/Act or professional bodies - Registration Certificate issued by Registrar of Firms - Valid Business License or Certificate of Registration issued by State/Central Government authority (validity would include the grace period for renewal as mentioned in the certificate) - PAN Card in the name of the firm; - Self-signed cheque issued from the firmâ€™s account from a PSU/private sector/foreign bank along with a bank statement not older than four months Documents for establishing proof of address - Landline telephone bill/electricity bill of public and approved private operators in the State. (Bills not to be older than 4 months from the date of account opening) - Property Ownership Deed i.e. title deeds of the property in the name of the firm duly stamped and registered - Latest property tax or water tax paid receipt/bill raised in the name of the firm - TAN Allotment Letter in the name of the firm - Existing bank account statement or passbook of a PSU/private sector/foreign bank - Statement not older than 4 months from the date of account opening to be accepted Documents for establishing photo identity of authorised partners/signatories View more
+ID: 28
+Q: What transactions are included as a part of the Free Anywhere Transactions limit for a month
+A: The following transactions together comprise part of the Free Anywhere Transaction Limit: Cheques deposited into the account in other cities (in local clearing / within Bank) Inter-city payable-at-par cheques issued. Inter-city account to account funds transfers (Cheque Payments & Collections) within M&N  Bank Accounts. View more
+ID: 29
+Q: How much cash can I deposit per month in my home branch, without being charged
+A: The free cash deposit limit at your home branch depends on the AMB you have maintained during the transaction month. This free limit is calculated as 10 times the actual AMB maintained during the transaction month or 50 transactions per month, whichever is less. In case you make more than 50 transactions or your cash deposits are more than 10 times your AMB at your home branch, you will have to pay a charge of Rs. 3 per Rs. 1,000, subject to a minimum of Rs. 50 (excluding taxes). If I maintainI get Monthly Free If I utilizeI am Charged Average Monthly Balance (AMB) in Rs. Home Location Cash Deposit in Rs. (Subject to maximum of 50 transactions) Actual Home Location Cash Deposit in Rs. Rs. (excluding 12.36% Service Tax & Education Cess) 50,000 5,00,000 7,50,000 1,750 (750 + 1000**) 75,000 7,50,000 11,00,000 1,050 1,00,000 10,00,000 9,50,000 Nil 2,21,103* 22,11,000* 20,00,000 Nil 3,00,000 30,00,000 37,00,000 2,100 5,00,000 50,00,000 45,00,000 Nil 10,00,000 1,00,00,000 60,00,000 Nil *The Home Location Cash Deposit Free limit is rounded off to the nearest thousand ** AMB non-maintenance charges View more
+ID: 30
+Q: Can I access my account from any M&N  Bank branch
+A: Yes. All M&N  Bank branches and systems are interconnected by state-of-the-art technology and allow access at all times.
+ID: 31
+Q: What is the minimum balance that I need to maintain in a Flexi Current Account
+A: You have to maintain an Average Monthly Balance (AMB) of Rs. 75,000 in a Flexi Current account. If you are unable to maintain the AMB you will be have to pay a charge of Rs. 1,000 for the month in which the AMB has not been maintained.
+ID: 32
+Q: What is the minimum balance required for an Apex Current account
+A: You need to maintain an Average Quarterly Balance (AQB) of Rs. 10,00,000 in your Apex Current account.
+ID: 33
+Q: Can I access my account from any M&N  Bank branch
+A: Yes. All M&N  Bank branches and systems are interconnected by state-of-the-art technology and allow access at all times.
+ID: 34
+Q: Is it necessary to open Apex Current Account in each location where my company has an office
+A: No. With a Apex Current Account, you enjoy the advantage of a single account with multi-location banking.
+ID: 35
+Q: Can I make payments to my suppliers at M&N  Bank branches through a single cheque book
+A: Yes. When you open an account, you will be issued an at-par cheque book, which is payable at all our branches.
+ID: 36
+Q: What are the documents required for opening a Current Account of a partnership firm
+A: Following documents are required for opening a Current Account of a partnership firm: Latest Partnership Deed Documents establishing proof of existence - Certificate of Registration under any Statute/Act or professional bodies - Registration Certificate issued by Registrar of Firms - Valid Business License or Certificate of Registration issued by State/Central Government authority (validity would include the grace period for renewal as mentioned in the certificate) - PAN Card in the name of the firm; - Self-signed cheque issued from the firmâ€™s account from a PSU/private sector/foreign bank along with a bank statement not older than four months Documents for establishing proof of address - Landline telephone bill/electricity bill of public and approved private operators in the State. (Bills not to be older than 4 months from the date of account opening) - Property Ownership Deed i.e. title deeds of the property in the name of the firm duly stamped and registered - Latest property tax or water tax paid receipt/bill raised in the name of the firm - TAN Allotment Letter in the name of the firm - Existing bank account statement or passbook of a PSU/private sector/foreign bank - Statement not older than 4 months from the date of account opening to be accepted Documents for establishing photo identity of authorised partners/signatories View more
+ID: 37
+Q: Can I access my account by telephone to conduct routine daily transactions
+A: Yes you can. You can use PhoneBanking to perform the following operations: Access your account details Request account statements Make Fixed Deposit related queries Inquire about interest and FX rates Request a cash delivery or pick-up Order a new cheque book View more
+ID: 38
+Q: What should I do in case I am unable to access my Company's Current Account through Net Banking
+A: If you are unable to access your company account, it may be because you have entered an incorrect Customer Identification Number (Cust ID) to log into your NetBanking Account. While opening Accounts of Companies, separate Customer IDs are created in name of the Company as well as each of the Authorized Signatory(ies). The latter is distinct and has to be used to access NetBanking for the Company's Account. However, we regret our inability to disclose the appropriate Customer ID on an unsecure e-mail and request you to contact our nearest Branch or PhoneBanking Center for this. For more details, Contact Us
+ID: 39
+Q: How is an Apex Current account different from a regular Current Account
+A: An Apex Current account includes the following privileges: Higher free limit of Rs. 120 Lakhs per month for cash deposits at your home branch Unlimited free clearing transactions anywhere for payments and collections Free and faster collection of outstation cheques at M&N  Bank locations Free Demand Drafts and Pay Orders Free RTGS and NEFT transactions Free BillPay and InstaAlerts Free Business Debit Card These features make an Apex Current account different from a regular Current account. View more

@@ -1,0 +1,67 @@
+پرسش و پاسخ های انگلیسی زیر رو به فارسی محاوره ای تبدیل کن. حواست باشه که:
+    1- فارسی محاوره ای باشه
+    2- تمام کلمات انگلیسی شامل اسامی خاص مخفف ها اصلاحات بانکی همگی به فارسی تبدیل شوند.
+    3- هیچ کلمه یا حرف انگلیسی ای در ترجمه نباشه
+    
+    Return strictly as JSONL: {'id': ..., 'Q': '...', 'A': '...'}
+
+ID: 80
+Q: How is an Institutional Current Account  different from a Regular Current Account
+A: An Institutional Current Account includes the following privileges: Free limit of Rs. 50 Lakhs per month for cash deposits at your home branch Free and faster collection of outstation cheques at M&N  Bank locations Free Demand Drafts and Pay Orders Free RTGS and NEFT Collections and upto 25 transactions free for NEFT/RTGS payments. Free BillPay and InstaAlerts Free Business Debit Card These features make an Institutional Current Account different from a Regular Current account.
+ID: 81
+Q: What should I do in case I am unable to access my Institutional Current Account through Net Banking
+A: If you are unable to access you Institutional account, it may be because you have entered an incorrect Customer Identification Number (Cust ID) to log into your NetBanking Account. While opening Accounts of Institutes, separate Customer IDs are created in the name of the Institute, as well as each Authorised Signatory(ies). The latter is distinct and has to be used to access NetBanking for the Institutes Account. However, since we do not disclose the Institutes Customer ID on an unsecure e-mail, the Institute will have to contact their nearest Branch or PhoneBanking Center for this. For more details, Contact Us
+ID: 82
+Q: Can I access my account from any M&N  Bank branch
+A: Yes. All M&N  Bank branches and systems are interconnected by state-of-the-art technology and allow access at all times.
+ID: 83
+Q: Must I open Institutional Current Account in each location where I have my company office
+A: No. As a Institutional Current Account holder you have the advantage of single account, multi-location banking.
+ID: 84
+Q: What is the minimum balance required for an Institutional Current Account 
+A: No minimum balance requirement.
+ID: 85
+Q: How do I become eligible for an M&N  Bank Institutional Current Account 
+A: To become eligible for an M&N  Bank Institutional Current Account you belong to one of the eligibility criteria mentioned above.
+ID: 86
+Q: Can I access my account by telephone to conduct routine daily transactions
+A: Yes you can. You can use PhoneBanking to perform the following operations: Access your account details Request account statements Make Fixed Deposit related queries Inquire about interest and FX rates Request a cash delivery or pick-up Order a new cheque book
+ID: 87
+Q: Is it necessary to open Institutional Current Account in each location where my company has an office
+A: No. With a Institutional Current Account , you enjoy the advantage of a single account with multi-location banking.
+ID: 88
+Q: What transactions are included as a part of the Free Anywhere Transactions limit for a month
+A: The following transactions comprise part of the Free Anywhere Transaction limit: Cheque deposited into the account in other cities (in local clearing) Inter-city Payable-at-Par cheque issuance.
+ID: 89
+Q: Can I make payments to my suppliers at M&N  Bank branches through a single cheque book
+A: Yes. When you open an account, you will be issued an at-par cheque book, which is payable at all our branches.
+ID: 90
+Q: What are the permissible Debits from an RFC Domestic Account
+A: The funds in a Resident Foreign Currency Domestic Account opened or held or maintained shall be free from all restrictions regarding utilization of foreign currency balances, including any restriction on investment in any form, by whatever name called, outside India.
+ID: 91
+Q: Can I access my account by telephone to conduct routine daily transactions
+A: Yes you can. You can use PhoneBanking to perform the following operations: Access your account details Request account statements Make Fixed Deposit related queries Inquire about interest and FX rates Request a cash delivery or pick-up Order a new cheque book View more
+ID: 92
+Q: Who can open an RFC Domestic Account
+A: Any person who is a resident Indian can open an RFC Domestic account, as long as the foreign exchange earned is in line with the permissible credits as defined in the RBI circular.
+ID: 93
+Q: What are the documents required for opening a Current Account of a partnership firm
+A: Following documents are required for opening a Current Account of a partnership firm: Latest Partnership Deed Documents establishing proof of existence - Certificate of Registration under any Statute/Act or professional bodies - Registration Certificate issued by Registrar of Firms - Valid Business License or Certificate of Registration issued by State/Central Government authority (validity would include the grace period for renewal as mentioned in the certificate) - PAN Card in the name of the firm; - Self-signed cheque issued from the firmâ€™s account from a PSU/private sector/foreign bank along with a bank statement not older than four months Documents for establishing proof of address - Landline telephone bill/electricity bill of public and approved private operators in the State. (Bills not to be older than 4 months from the date of account opening) - Property Ownership Deed i.e. title deeds of the property in the name of the firm duly stamped and registered - Latest property tax or water tax paid receipt/bill raised in the name of the firm - TAN Allotment Letter in the name of the firm - Existing bank account statement or passbook of a PSU/private sector/foreign bank - Statement not older than 4 months from the date of account opening to be accepted Documents for establishing photo identity of authorised partners/signatories View more
+ID: 94
+Q: What are the permissible credits from an RFC Domestic Account
+A: As per the RBI directive, the following can be credited into an RFC Domestic Account: a) Received as pension or any other superannuation or other monetary benefits from his employer outside India; or b) Realised on conversion of the assets referred to in sub-section (4) of section 6 of the Act, and repatriated to India; or c) Received or acquired, as gift or inheritance, from a person referred to in sub-section (4) of section 6 of the Act; or d) Referred to in clause (c) of section 9 of the Act, or acquired as gift or inheritance therefrom. View more
+ID: 95
+Q: In what currencies can I open an RFC Domestic account
+A: An RFC Domestic Account can be opened in three different currencies, i.e. USD / Euro / GBP.
+ID: 96
+Q: Whether the EEFC balances can be covered against exchange risk
+A: Yes, the EEFC account balances can be hedged.
+ID: 97
+Q: Is there any restriction on withdrawal in rupees of funds held in an EEFC account
+A: No, there is no restriction on withdrawal in rupees of funds held in an EEFC account. However, the amount withdrawn in rupees shall not be eligible for conversion into foreign currency and for re-credit to the account.
+ID: 98
+Q: How much of foreign exchange earnings can be credited into an EEFC account
+A: 100% foreign exchange earnings can be credited to the EEFC account subject to the condition that the sum total of the accruals in the account during a calendar month should be converted into rupees on or before the last day of the succeeding calendar month after adjusting for utilisation of the balances for approved purposes or forward commitments. Refer to the RBI circular on below link. Note: In accordance with Reserve Bank of India's circular no. A. P. (DIR Series) Circular No. 12 dated 31st of July 2012, the balances outstanding in all EEFC / Diamond Dollar Account (DDA) and RFC (D) accounts as on last day of a Current month, shall be converted into Rupees by the Bank on the last working day of the succeeding month, if such balance is not utilised by the account holder before the last day of succeeding month. Such mandatory conversion by the bank on the last working day of the succeeding month will be done at the prevailing TT buying card rate. In case, customer has booked Forward Contract/s for conversion of balances in these accounts at a future date which is falling beyond the last day of the succeeding month, such contracted amount shall be deducted from the eligible amount for the mandatory conversion. In case customer has any payment to be made in future from these accounts beyond the last day of the succeeding month then bank should be duly informed before 25th of the succeeding month in writing through Relationship Manager / Branch Manager for holding back the conversion to that extent. The customer needs to submit the underlying documents of such future transaction/s. This will be an on-going procedure till we receive revised instructions from Reserve Bank of India. View more
+ID: 99
+Q: What are the permissible credits into EEFC account
+A: Inward remittance through normal banking channels, other than remittances received on account of foreign currency loan or investment received from abroad or received for meeting specific obligations by the account holder; Payments received in foreign exchange by a 100 per cent Export Oriented Unit or a unit in (a) Export Processing Zone or (b) Software Technology Park or (c) Electronic Hardware Technology Park for supply of goods to similar such units or to a unit in domestic tariff area; Payments received in foreign exchange by a unit in the domestic tariff area for supply of goods to a unit in the Special Economic Zone (SEZ); Payment received by an exporter from an account maintained with an authorised dealer for the purpose of counter trade. (Counter trade is an arrangement involving adjustment of value of goods imported into India against value of goods exported from India in terms of the Reserve Bank guidelines); Advance remittance received by an exporter towards export of goods or services; Professional earnings including directors fees, consultancy fees, lecture fees, honorarium and similar other earnings received by a professional by rendering services in his individual capacity; Re-credit of unutilised foreign currency earlier withdrawn from the account; Amount representing repayment by the account holder's importer customer, of loan/advances granted, to the exporter holding such account; and The disinvestment proceeds received by the resident account holder on conversion of shares held by him to ADRs/GDRs under the Sponsored ADR/GDR Scheme approved by the Foreign Investment Promotion Board of the Government of India. View more
