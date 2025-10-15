@@ -94,7 +94,7 @@ For this approach, I explored recent models with fewer than 8B parameters and te
 | LLama-3-8b-instruct           | 0.752   | 0.011             |
 | Mistral-7b-instruct-v0.3      | 0.569   | 0                |
 | Qwen3-4b-instruct-2507        | 0.828   | 0                |
-| Gemma-3-4b-it|                | 0.623    | 0              |
+| Gemma-3-4b-it                | 0.623    | 0              |
 
 *Check each model’s notebook for instructions and system prompts.*
 
